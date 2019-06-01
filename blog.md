@@ -4,7 +4,17 @@ permalink: /blog/
 title: Blog
 ---
 
+<div class="posts">
+  {% for post in site.categories.blog %}
+    <article class="post">
 
-{% for post in site.categories.blog %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
