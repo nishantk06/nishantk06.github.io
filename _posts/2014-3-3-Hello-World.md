@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 title: Check Out This FKN Blog!!!
 ---
 
