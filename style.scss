@@ -260,6 +260,18 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
+	
+.post green tea {
+   background:#000531 url("images/green tea.jpeg") no-repeat center center;
+   blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
+    font-style: italic;
+  }
+
 
   .comments {
     margin-top: 10px;
