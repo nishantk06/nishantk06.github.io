@@ -2,6 +2,7 @@
 layout: default
 categories: portfolio
 title: 'The Death of An Ashokan Ethos'
+published: true
 ---
 
 Banjaara 2017, the experienced members of the Ashokan community will remember, was a festival of puking, abuse, manhandling and alcohol poisoning. If we are to accept Slavoj Zizek’s rough definition of an event as “the effect that seems to exceed its causes,” then Banjaara 2017 was undoubtedly an event — The event which marked the moment of realization for the Ashokan body that it had stepped into excess. A festival of celebration had overstepped its purpose and in the process, violated the Ashokan ideology.
