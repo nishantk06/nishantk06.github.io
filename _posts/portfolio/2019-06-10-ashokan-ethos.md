@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: portfolio
-title: 'The Death of An Ashokan Ethos'
+title: The Death of An Ashokan Ethos
 published: true
 ---
 
