@@ -4,8 +4,6 @@ categories: portfolio
 title: 'The Death of An Ashokan Ethos'
 ---
 
-![ashoka-jaali]({{site.baseurl}}/https://cdn-images-1.medium.com/max/2560/1*wwpSlS2V5kAMGN3Fu3n_Jw.jpeg)
-
 Banjaara 2017, the experienced members of the Ashokan community will remember, was a festival of puking, abuse, manhandling and alcohol poisoning. If we are to accept Slavoj Zizek’s rough definition of an event as “the effect that seems to exceed its causes,” then Banjaara 2017 was undoubtedly an event — The event which marked the moment of realization for the Ashokan body that it had stepped into excess. A festival of celebration had overstepped its purpose and in the process, violated the Ashokan ideology.
 
 The then Dean of Academic Affairs, Professor Jonathan Gil Harris, held town halls in the MPH for all students immediately after. Entering the MPH, the first thing you would notice was a slide with the title ‘What does it mean to be an Ashokan?’. In that townhall, Professor Harris, representing the administrative body of Ashoka, made clear to us that there was a very specific value system that was expected out of Ashokans, and the collective inclinations that Banjaara revealed were in direct violation of that system — Ashokans are not just ‘college students’, and an excessive party culture will not be the central charm of the university.
