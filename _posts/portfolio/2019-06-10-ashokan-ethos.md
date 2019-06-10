@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 categories: portfolio
 title: The Death of An Ashokan Ethos
 published: true
