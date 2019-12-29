@@ -8,4 +8,4 @@ Welcome to my blog! I'm Nishant Kauntia, an aspiring writer of essays and books.
 
 ### Contact me
 
-[nishantkauntia@gmail.com](mailto:nishantkauntia@gmail.com)
+E-mail - [nishantkauntia@gmail.com](mailto:nishantkauntia@gmail.com)
