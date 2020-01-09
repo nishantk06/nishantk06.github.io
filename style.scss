@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 19px/1.4 Garamond, serif;
+  font: 17px/1.4 Garamond, serif;
   color: $black;
 }
 
@@ -37,12 +37,10 @@ h1, h2, h3, h4, h5, h6 {
 
   line-height: 1.3;
   margin: 1em 0 15px;
-  padding: 0px;
+  padding: 6px;
 
   @include mobile {
     line-height: 1.4;
-    padding: 8px;
-    font-size: 15px;
   }
 }
 
