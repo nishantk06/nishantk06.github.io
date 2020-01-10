@@ -8,6 +8,7 @@ published: true
 The first time I ever saw Aishe Ghosh on TV, I already admired her. She spoke on the nightmarish debates with civility, and I admired that more than anything. Patience, civility, and a genuine attempt at communication. And now on Twitter blood was coming out of her skull. I have been brutally attacked, she said, I’m not even in a condition to speak. Gone was the composure, the courage and civility. What was left was raw helplessness, grief, shock. Iron rods do that to a person. And then I heard the ambulance siren. Ambulances often pass by my house. I live very close to the road for AIIMS. I refreshed my twitter. They were taken to AIIMS Trauma Center, 15 students, and teachers. to the AIIMS Trauma Center.
 
 ![Goli Maaro Saalon Ko]({{site.baseurl}}/images/golimaaro.jpeg)
+
 _Man shouting "Goli maaro saalon ko" outside the JNU main gate._
 
 It’s a strange word - trauma. It assumes that the past will stay with you, and haunt you in the future. And trauma is the mob’s best-case scenario - that each time the students think about stepping out for a protest, the images of the masked men, attacking them with rods, flash before them, and they stay in. If there is trauma, I imagine that what would linger most would be the eyes. What do their eyes look like, people who are smashing your head with steel rods? That must be what stays. That there are eyes out there in the world that carry that much hatred for you. How does one live with that without looking over their shoulders forever?
