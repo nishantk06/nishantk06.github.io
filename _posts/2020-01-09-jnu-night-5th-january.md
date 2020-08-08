@@ -2,7 +2,7 @@
 layout: post
 categories: blog
 title: 'Iron (Fe) - Metal, Ductile, Lustrous, and Powerless in JNU'
-published: true
+published: false
 ---
 
 The first time I ever saw Aishe Ghosh on TV, I already admired her. She spoke on the nightmarish debates with civility, and I admired that more than anything. Patience, civility, and a genuine attempt at communication. And now on Twitter blood was coming out of her skull. I have been brutally attacked, she said, I’m not even in a condition to speak. Gone was the composure, the courage and civility. What was left was raw helplessness, grief, shock. Iron rods do that to a person. And then I heard the ambulance siren. Ambulances often pass by my house. I live very close to the road for AIIMS. I refreshed my twitter. They were taken to AIIMS Trauma Center, 15 students, and teachers. to the AIIMS Trauma Center.
