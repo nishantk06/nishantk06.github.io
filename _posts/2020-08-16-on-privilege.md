@@ -1,9 +1,6 @@
 ---
-published: false
+published: true
 ---
-## A New Post
-
-
 I take up too much space in this world.
 
 Right now, I’m taking up your attention to talk about what it's like to be me. Wouldn’t it be far more valuable for you to know what it's like to be the father of the bright child in southern India who killed herself because she didn’t have a smartphone to attend her online classes? How does the father of such a child, a daily wage laborer and supporter of the family and the person who couldn’t give her daughter that damned smartphone - how does he continue to live after something like that? What are the minute details of his everyday experience, and what might that tell us about the society we’ve built? Like I said, far more valuable. 
@@ -32,5 +29,4 @@ I don’t hope to score any woke-points by reveling in this feeling. In fact, I�
 
 For the privileged, happiness lies in hiding from the world. Some of us have gotten very, very good at it, and others not so much. But that is to say that our happiness is a lie, that if we insisted on being in full awareness of the world around us, our happiness would perhaps die out and be replaced by something that feels like sobriety. Our eyes would carry the depth of suffering this world can inflict upon you, and be guilty and grateful at the same time for being protected from it. It would infuse humility, and compassion, and an infinite ability to give. As my friend likes to say, what do we owe and who do we owe it to?
 
-And that’s all good. It's good to be conscious of privilege and in service of the oppressed and all that. But I also enjoy my air conditioned room and my fancy laptop and water that’s only slightly cold and feels heavenly to drink, and I want to keep myself hydrated and upbeat so I might just drink 4 litres of it. I don’t know if it's okay, but I’d like not to think about that for a while. And maybe I’ll even take a thousand words or so to tell you about it and you’ll read it instead of the experiences of someone less privileged and it won’t be okay. And it's not. And I feel bad about it. So I guess I’m gonna stop. 
-
+And that’s all good. It's good to be conscious of privilege and in service of the oppressed and all that. But I also enjoy my air conditioned room and my fancy laptop and water that’s only slightly cold and feels heavenly to drink, and I want to keep myself hydrated and upbeat so I might just drink 4 litres of it. I don’t know if it's okay, but I’d like not to think about that for a while. And maybe I’ll even take a thousand words or so to tell you about it and you’ll read it instead of the experiences of someone less privileged and it won’t be okay. And it's not. And I feel bad about it. So I guess I’m gonna stop.
