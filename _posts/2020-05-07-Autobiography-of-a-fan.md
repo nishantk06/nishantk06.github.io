@@ -2,7 +2,7 @@
 layout: post
 categories: blog
 title: Autobiography of a Fan
-published: true
+published: false
 ---
 Hello. 
 
